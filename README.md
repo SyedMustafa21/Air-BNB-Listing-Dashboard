@@ -94,6 +94,10 @@ To build an interactive analytical tool that:
 * Tableau Desktop** – Data visualization and dashboard creation.
 * Microsoft Excel** – Data preparation and transformation.
 
+* Dataset Link:
+
+* https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
+
 
 
 
